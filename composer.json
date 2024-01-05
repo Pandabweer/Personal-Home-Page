@@ -1,0 +1,19 @@
+{
+    "name": "personal/home-page",
+    "description": "A personal-home-page meant to learn Laraval and have fun in the process.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Personal\\HomePage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Enrique Bos",
+            "email": "enriquebos7090@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
